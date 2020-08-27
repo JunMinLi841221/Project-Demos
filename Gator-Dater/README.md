@@ -4,7 +4,7 @@ The user will get to interact with their match via email, and will go in
 knowing basic information such as name, age, major (all of which is used to match them in the first place). The goal of our app is
 to make our fellow SFSU students feel a little less cold this winter.
 ### Welcome Page
-![Welcome Screen- State 1](/screenshots/home.png)
+![Welcome Screen- State 1](Gator-Dater/screenshots/home.png)
 - This is the home screen which has two buttons
     - One for login
     - One to sign up
