@@ -1,5 +1,7 @@
-# Project-Demos
-
+# Project-Demos- PDF / README FILES
+# All projects were completed within 3 weeks, except SFSUACCESS.
+# My role was mainly focused on front end developing, including UI design, api functions front and back ends testing.
+Gator-Dater
 
 Momentum
 
