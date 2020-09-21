@@ -1,4 +1,5 @@
 # Gator-Dater
+### Development cycle: 2 weeks
 Gator-Dater is a dating app for SFSU students, in which students register and like other people's profiles which then create's a match.
 The user will get to interact with their match via email, and will go in
 knowing basic information such as name, age, major (all of which is used to match them in the first place). The goal of our app is
