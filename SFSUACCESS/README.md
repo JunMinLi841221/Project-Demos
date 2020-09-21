@@ -3,24 +3,31 @@
 The main function of this project, called SFSU Access, is providing an e-commerce platform for SFSU students and faculties to buy, exchange and share media contents. The market function allows people to browse media contents posted by other members or themselves. The member login function allows users to post, buy, and download contents after they have logged in to their accounts. The admin function allows website administrators to manage the contents posted by users to make sure the contents are safe and appropriate.
 ### Final product 
 ![](screenshot/00.png)
+- Users are able to search and browse all items
+
+### Product info 
+![](screenshot/item_info.png)
+- Users are able to view item details after clicking an item.
+- For example, this is a free item.  A registered user is able to download this item.
+
 
 ### Sign up  
 ![](screenshot/signup.png)
-All fields are mandatory. Email and password are required for log in to the account.
+- All fields are mandatory. Email and password are required for log in to the account.
 
 ### Upload item  
 ![](screenshot/upload.png)
- Users are able to post items(PDF,MP4,JPG,PNG files only) for sale or download.
+ - Users are able to post items(PDF,MP4,JPG,PNG files only) for sale or download.
 
 ### Dashboard 
 ![](screenshot/dashboard.png)
 
-Users are able to remove/ view all their posted items and messages on their dashboard.
+- Users are able to remove/ view all their posted items and messages on their dashboard.
 
 ### Message
 ![](screenshot/message.png)
 ![](screenshot/message_box.png)
-Users are able to message seller using in-site message prefilled with product info.
+- Users are able to message seller using in-site message prefilled with product info.
 
 
 The major committed functions are:
