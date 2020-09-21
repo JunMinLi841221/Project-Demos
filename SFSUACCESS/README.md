@@ -1,6 +1,7 @@
-### This is a screenshot of the project. 
+# SFSUACCESS
+The main function of this project, called SFSU Access, is providing an e-commerce platform for SFSU students and faculties to buy, exchange and share media contents. The market function allows people to browse media contents posted by other members or themselves. The member login function allows users to post, buy, and download contents after they have logged in to their accounts. The admin function allows website administrators to manage the contents posted by users to make sure the contents are safe and appropriate.
+### Final product. 
 ![](screenshot/00.png)
-
 
 
 The major committed functions are:
